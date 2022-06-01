@@ -1,0 +1,148 @@
+.fb {
+  height: 40px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 10px;
+  background-color: white;
+}
+.search-bar {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+}
+.searchInput {
+  height: 37px;
+  position: relative;
+  border-radius: 20px;
+
+  border: 1px solid grey;
+  padding-left: 30px;
+  font-size: 15px;
+}
+
+.search-icon {
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 1px;
+}
+
+.icons {
+  display: flex;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  font-size: 20px;
+}
+
+.icon1:hover {
+  color: rgb(36, 178, 235);
+  border-bottom: 1px solid red;
+}
+.icons::after {
+  content: "9+";
+  background-color: red;
+  font-size: 10px;
+  height: 10px;
+  width: 20px;
+  position: absolute;
+  bottom: 20px;
+  left: 110px;
+  border-radius: 100px;
+  text-align: center;
+  padding: 4px 0px;
+  color: white;
+  font-weight: bold;
+}
+
+.notify3 {
+  box-sizing: border-box;
+  content: "3";
+  background-color: red;
+  font-size: 10px;
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  border-radius: 100px;
+  top: 2px;
+  left: 202px;
+  color: white;
+  font-weight: bolder;
+  padding: 4px;
+  text-align: center;
+}
+
+.notify4 {
+  box-sizing: border-box;
+  background-color: red;
+  font-size: 10px;
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  border-radius: 100px;
+  top: 2px;
+  left: 290px;
+  color: white;
+  font-weight: bolder;
+  padding: 4px;
+  text-align: center;
+}
+.notify5 {
+  box-sizing: border-box;
+  background-color: red;
+  font-size: 10px;
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  border-radius: 100px;
+  top: 2px;
+  left: 388px;
+  color: white;
+  font-weight: bolder;
+  padding: 4px;
+  text-align: center;
+}
+
+.icon2:hover {
+  color: rgb(36, 178, 235);
+  border-bottom: 1px solid red;
+}
+.icon3:hover {
+  color: rgb(36, 178, 235);
+  border-bottom: 1px solid red;
+}
+.icon4:hover {
+  color: rgb(36, 178, 235);
+  border-bottom: 1px solid red;
+}
+.icon5:hover {
+  color: rgb(36, 178, 235);
+  border-bottom: 1px solid red;
+}
+.lefticon {
+  background-color: rgb(201, 201, 201);
+  width: 18px;
+  height: 18px;
+  padding: 10px;
+  border-radius: 100px;
+}
+a {
+  color: black;
+}
+
+.video_icon {
+  height: 20px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.profile img {
+  height: 30px;
+  border-radius: 100px;
+}

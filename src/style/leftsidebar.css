@@ -1,0 +1,72 @@
+.container1 {
+  width: 20%;
+  padding: 10px 10px;
+  margin: 10px;
+  background-color: red;
+}
+
+.leftbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  margin-top: 10px;
+}
+
+.profilePic {
+  height: 40px;
+  border-radius: 100px;
+}
+
+.friends-icon {
+  height: 34px;
+  width: 34px;
+
+  color: rgb(0, 119, 255);
+}
+
+.photo3:after {
+  color: rgb(0, 110, 255);
+  content: "3 New";
+  box-sizing: border-box;
+  font-size: 12px;
+  height: 20px;
+  width: 70px;
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  border-radius: 100px;
+  text-align: center;
+  padding: 4px 0px;
+  font-weight: bold;
+}
+.photo4:after {
+  color: rgb(0, 110, 255);
+  content: "3 New";
+  box-sizing: border-box;
+  font-size: 12px;
+  height: 20px;
+  width: 70px;
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  border-radius: 100px;
+  text-align: center;
+  padding: 4px 0px;
+  font-weight: bold;
+}
+.photo5:after {
+  color: rgb(0, 110, 255);
+  content: "9 New";
+  box-sizing: border-box;
+  font-size: 12px;
+  height: 20px;
+  width: 70px;
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  border-radius: 100px;
+  text-align: center;
+  padding: 4px 0px;
+  font-weight: bold;
+}
