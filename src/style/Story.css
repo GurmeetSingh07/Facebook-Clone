@@ -3,6 +3,7 @@
 }
 .StoryContainer {
   height: 170px;
+  width: 120px;
 }
 
 .story {
@@ -38,7 +39,7 @@
 .message {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 2px;
 
   padding: 10px;
 }
