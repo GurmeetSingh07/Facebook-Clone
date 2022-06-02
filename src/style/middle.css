@@ -1,0 +1,94 @@
+.message {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  padding: 10px;
+}
+.maindiv {
+  padding-left: 40px;
+}
+.profilepics {
+  width: 30px;
+  border-radius: 100px;
+}
+.statusInput {
+  width: 700px;
+  height: 32px;
+  border-radius: 100px;
+  border: 1px solid grey;
+  margin: 2px;
+  background-color: #f0f2f5;
+}
+.statusUpload {
+  display: flex;
+  gap: 40px;
+  padding-left: 50px;
+
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.statusBar {
+  background-color: white;
+  width: 82%;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.choosemode {
+  display: flex;
+  gap: 5px;
+}
+
+.live-icon {
+  color: red;
+}
+
+.photo-icon {
+  color: greenyellow;
+}
+.mode-icon {
+  color: yellow;
+}
+
+.createRoom {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: white;
+  padding: 12px;
+  margin-top: 10px;
+  width: 82%;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.room-icon {
+  color: white;
+}
+.rooms {
+  display: flex;
+  background-color: palegreen;
+  align-items: center;
+  gap: 10px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.content {
+  background-color: white;
+  width: 82%;
+  margin-top: 10px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+.postDetails {
+  display: flex;
+  align-items: center;
+}
+
+.uploadPost {
+  width: 100%;
+}

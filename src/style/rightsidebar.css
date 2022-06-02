@@ -1,0 +1,78 @@
+.container3 {
+  margin: 10px 10px;
+  width: 20%;
+}
+
+.yourSponsored p {
+  padding: 15px;
+  padding-left: 0px;
+}
+
+.Sponsored1 {
+  width: 150px;
+  border-radius: 10px;
+}
+
+.sponsoredImage {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 10px;
+}
+.text2 {
+  font-size: 10px;
+}
+
+.sponsoredText {
+  font-size: 12px;
+}
+
+.line {
+  margin-top: 30px;
+}
+
+.pagetext {
+  margin-top: 10px;
+}
+
+.codedrill {
+  width: 40px;
+  border-radius: 100px;
+  margin-top: 10px;
+}
+
+.companyLogo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.companyName {
+  margin-top: 5px;
+}
+.demo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.bellicon {
+  font-size: 25px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.belltext {
+  margin-top: 9px;
+  margin-left: 10px;
+}
+
+.contacts {
+  margin-top: 10px;
+  display: flex;
+  gap: 100px;
+}
+
+.contact-icon {
+  display: flex;
+  gap: 20px;
+}

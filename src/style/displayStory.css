@@ -1,0 +1,48 @@
+.container4 {
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+.container4topdiv {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.arrows {
+  position: absolute;
+  background-color: white;
+  border-radius: 100%;
+  align-self: center;
+  position: relative;
+}
+
+#leftarrow {
+  left: 340px;
+  bottom: 462px;
+  z-index: 1;
+  display: none;
+  position: absolute;
+}
+
+#rightarrow {
+  right: 340px;
+  bottom: 462px;
+  position: absolute;
+}
+
+.createStory2 {
+  height: 170px;
+  width: 120px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.ownerStory {
+  border-radius: 10px 10px 0px 0px;
+}
+
+.text {
+  text-align: center;
+}

@@ -1,52 +1,27 @@
 .container2 {
-  background-color: green;
-  margin: 10px;
-
-  width: 55%;
-  box-sizing: border-box;
-  padding-left: 9%;
+  width: 120px;
 }
 .StoryContainer {
-  display: flex;
-  gap: 7px;
-  width: 100%;
+  height: 170px;
 }
 
 .story {
-  width: 90px;
+  width: 100%;
   height: 170px;
-  border-radius: 10px;
-}
-.yourStory {
-  width: 90px;
-  height: 140px;
   border-radius: 10px;
   position: relative;
 }
-.createStory {
-  position: absolute;
-  background-color: white;
-  height: 51px;
-  box-sizing: border-box;
-  top: 190px;
-  width: 90px;
-  border-radius: 10px;
-}
-.createStory p {
-  padding-top: 27px;
-}
 
-.story-icon {
-  color: rgb(0, 195, 255);
-  position: absolute;
-  bottom: 38px;
-  left: 36px;
-  font-size: 20px;
+.yourStory {
+  width: 105px;
+  height: 110px;
+  border-radius: 10px;
+  position: relative;
 }
 
 .name {
   position: absolute;
-  top: 220px;
+  top: 210px;
   margin-left: 13px;
   color: white;
 }
@@ -65,86 +40,4 @@
   gap: 10px;
 
   padding: 10px;
-}
-
-.profilepics {
-  width: 30px;
-  border-radius: 100px;
-}
-.statusInput {
-  width: 440px;
-  height: 32px;
-  border-radius: 100px;
-  border: 1px solid grey;
-  margin: 2px;
-  background-color: #f0f2f5;
-}
-.statusUpload {
-  display: flex;
-  gap: 40px;
-  padding-left: 50px;
-
-  padding-top: 15px;
-  padding-bottom: 10px;
-}
-
-.statusBar {
-  background-color: white;
-  width: 77%;
-  border-radius: 20px;
-  margin-top: 10px;
-}
-.choosemode {
-  display: flex;
-  gap: 5px;
-}
-
-.live-icon {
-  color: red;
-}
-
-.photo-icon {
-  color: greenyellow;
-}
-.mode-icon {
-  color: yellow;
-}
-
-.createRoom {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  background-color: white;
-  padding: 12px;
-  margin-top: 10px;
-  width: 77%;
-  border-radius: 10px;
-}
-
-.room-icon {
-  color: white;
-}
-.rooms {
-  display: flex;
-  background-color: palegreen;
-  align-items: center;
-  gap: 10px;
-  height: 30px;
-  border-radius: 10px;
-  padding: 5px;
-}
-
-.content {
-  background-color: white;
-  width: 77%;
-  margin-top: 10px;
-  border-radius: 10px;
-}
-.postDetails {
-  display: flex;
-  align-items: center;
-}
-
-.uploadPost {
-  width: 100%;
 }
