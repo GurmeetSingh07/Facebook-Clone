@@ -51,7 +51,7 @@ export default function Middle() {
           <img src={profilepic} alt="profilePicture" className="profilepics" />
           <p>Voice Of India</p>
         </div>
-
+        <p>Dargon Ball Z</p>
         <div className="yourpost">
           <img src={post} alt="post" className="uploadPost" />
         </div>

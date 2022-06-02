@@ -116,7 +116,7 @@ export default function DisplayStory() {
               className="ownerStory"
             />
             <div className="text">Create story</div>
-            {/* <BsFillPatchPlusFill className="plus"></BsFillPatchPlusFill> */}
+            <BsFillPatchPlusFill className="plus"></BsFillPatchPlusFill>
           </div>
           {/* <Story props={images[1]} classname="ownerStory" /> */}
 
