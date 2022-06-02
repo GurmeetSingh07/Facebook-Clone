@@ -21,7 +21,7 @@
 
 .name {
   position: absolute;
-  top: 210px;
+  top: 140px;
   margin-left: 13px;
   color: white;
 }
@@ -32,6 +32,7 @@
   position: absolute;
   top: 80px;
   margin-left: 10px;
+  margin-top: -65px;
   border: 3px solid rgb(0, 174, 255);
 }
 .message {

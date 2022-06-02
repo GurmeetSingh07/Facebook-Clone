@@ -5,9 +5,7 @@
 
   padding: 10px;
 }
-.maindiv {
-  padding-left: 40px;
-}
+
 .profilepics {
   width: 30px;
   border-radius: 100px;
@@ -33,9 +31,8 @@
   background-color: white;
   width: 82%;
   border-radius: 20px;
-  margin-top: 10px;
-  margin-left: 15px;
-  margin: 10x auto;
+
+  margin: 10px auto;
 }
 .choosemode {
   display: flex;
@@ -59,10 +56,11 @@
   gap: 10px;
   background-color: white;
   padding: 12px;
-  margin-top: 10px;
+
   width: 82%;
   border-radius: 10px;
-  margin-left: 15px;
+
+  margin: 10px auto;
 }
 
 .room-icon {
@@ -81,10 +79,8 @@
 .content {
   background-color: white;
   width: 82%;
-  margin-top: 10px;
   border-radius: 10px;
-  margin-left: 15px;
-  margin: 10px;
+  margin: 10px auto;
 }
 .postDetails {
   display: flex;
